@@ -126,7 +126,9 @@ python-ml-course/
 └── resources/
     └── RESOURCES.md             ← Curated further learning
     └── GLOSSARY.md
-    └── troubleshooting.md 
+    └── troubleshooting.md
+    └── projects/
+        └── PROJECT_IDEAS.md
 ```
 
 ---
