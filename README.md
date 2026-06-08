@@ -58,6 +58,7 @@ python-ml-course/
 │
 ├── 00_setup/
 │   └── 00_environment_check.ipynb
+|   └── colab_setup.md  
 │
 ├── 01_python_basics/
 │   ├── 01_variables_and_types.ipynb
